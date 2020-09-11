@@ -1,0 +1,7 @@
+name: ml
+dependencies:
+  - jupyterlab
+  - numpy
+  - pandas
+  - seaborn
+  - scikit-learn
