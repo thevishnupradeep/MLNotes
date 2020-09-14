@@ -5,3 +5,5 @@ dependencies:
   - pandas
   - seaborn
   - scikit-learn
+  - conda-forge
+  - jupyterlab-git
