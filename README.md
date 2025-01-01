@@ -1,2 +1,1 @@
-# MLNotes
-Random ML Experiments
+# ML Notes With PyTorch
